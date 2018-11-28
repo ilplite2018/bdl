@@ -13,4 +13,4 @@ Bayesian Deep Learning for Machine Learning Algorithms.
 <> latent dirichlet allocation
 <> http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
 <> https://ai.stanford.edu/~ang/papers/jair03-lda.pdf
-<> https://pypi.org/project/lda/
+// https://pypi.org/project/lda/
