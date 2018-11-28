@@ -1,7 +1,7 @@
 # bdl
 Bayesian Deep Learning for Machine Learning Algorithms.
 
-<! 
+<!--- 
 https://github.com/booz-allen-hamilton
 https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
 ...
@@ -15,4 +15,4 @@ latent dirichlet allocation
 http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
 https://ai.stanford.edu/~ang/papers/jair03-lda.pdf
 https://pypi.org/project/lda/
-!>
+-->
