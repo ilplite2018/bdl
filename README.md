@@ -15,4 +15,7 @@ latent dirichlet allocation
 http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
 https://ai.stanford.edu/~ang/papers/jair03-lda.pdf
 https://pypi.org/project/lda/
+...
+https://jakevdp.github.io/PythonDataScienceHandbook/
+https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1
 -->
