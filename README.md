@@ -18,4 +18,8 @@ https://pypi.org/project/lda/
 ...
 https://jakevdp.github.io/PythonDataScienceHandbook/
 https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=1
+...
+http://bayesiandeeplearning.org/
+http://mlg.eng.cam.ac.uk/yarin/thesis/3_bayesian_deep_learning.pdf
+https://engineering.purdue.edu/ChanGroup/ECE645Notes/StudentLecture06.pdf
 -->
