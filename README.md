@@ -22,4 +22,7 @@ https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-n
 http://bayesiandeeplearning.org/
 http://mlg.eng.cam.ac.uk/yarin/thesis/3_bayesian_deep_learning.pdf
 https://engineering.purdue.edu/ChanGroup/ECE645Notes/StudentLecture06.pdf
+...
+Great Data Science code
+https://github.com/GokuMohandas/practicalAI
 -->
