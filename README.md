@@ -28,6 +28,7 @@ https://github.com/GokuMohandas/practicalAI
 ...
 Courses
 https://course.fast.ai/lessons/lessons.html
+https://www.youtube.com/user/howardjeremyp/videos
 https://www.forbes.com/sites/bernardmarr/2017/06/06/the-9-best-free-online-big-data-and-data-science-courses/#badb35643cdb
 http://work.caltech.edu/telecourse
 https://www.edx.org/course/subject/data-science
