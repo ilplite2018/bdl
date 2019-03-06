@@ -89,4 +89,13 @@ Peformance Benchmarks
 https://mlperf.org/
 https://dawn.cs.stanford.edu/benchmark/#squad
 .
+.
+https://www.thinkful.com/blog/what-is-data-science/
+Let's say you're generating data about your business. Like, a lot of data. More data than you could ever open in a single spreadsheet and if you did, you'd spend hours scrolling through it without making so much as a dent. But the data is there. It exists and that means there's something valuable in it. But what does it mean? What's going on? What can you learn? Most importantly, how can you use it to make your business better? Data analysis, the first subcategory of data science, is all about asking these types of questions.
+.
+Data science is essential in this process. While setting up and executing these experiments has gotten easier, doing it right hasn't.
+Knowing how to run an effective experiment, keep the data clean, and analyze it when it comes in are all parts of the data scientist repertoire, and they can be hugely impactful on any business.
+Careless experimentation creates biases, leads to false conclusions, contradicts itself, and ultimately can lead to less clarity and insight rather than more.
+.
+
 -->
